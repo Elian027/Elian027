@@ -19,7 +19,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **React, Nodejs, SQL**
 
-- 📝 You can see my resume [Here](https://drive.google.com/drive/folders/1vjyjUOc3JsECYFqxQq2vX8_0RPjG6zhd)
+- 📝 You can see my resume [Here]([https://drive.google.com/drive/folders/1vjyjUOc3JsECYFqxQq2vX8_0RPjG6zhd](https://drive.google.com/drive/folders/1vjyjUOc3JsECYFqxQq2vX8_0RPjG6zhd))
 
 - 💬 Ask me about **JavaScript, React, nodejs, mongoDB**
 
